@@ -2,7 +2,7 @@
 
 This is an export of my **Kinesis Advantage 360 SmartSet App** configurations (wired version).
 
-## Layouts
+## Layouts (profiles)
 
 ### Layout 1 (Mac OS)
 - Swapped **Backspace** with **Space**
