@@ -11,7 +11,7 @@ This is an export of my **Kinesis Advantage 360 SmartSet App** configurations (w
   - Screenshot
   - Microsoft Teams Mute button
 
-### Layout 2 (Linux)
+### Layout 7 (Linux)
 - Swapped **Backspace** with **Space**
 - Configured macros for:
   - Volume Up/Down
