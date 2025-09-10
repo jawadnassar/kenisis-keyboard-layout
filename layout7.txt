@@ -1,0 +1,11 @@
+<base>
+[rctr]>[lctr]
+[bspc]>[spc]
+[spc]>[bspc]
+{hk1}>{s5}{x1}{vol+}
+{hk2}>{s5}{x1}{vol-}
+{hk4}>{s5}{x1}{prnt}
+<keypad>
+<function1>
+<function2>
+<function3>

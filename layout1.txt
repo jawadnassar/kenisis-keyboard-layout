@@ -1,0 +1,14 @@
+<base>
+[lctr]>[lwin]
+[rwin]>[rctr]
+[rctr]>[rwin]
+[bspc]>[spc]
+[spc]>[bspc]
+{hk3}>{s5}{x1}{-lshf}{-lwin}{m}{+lshf}{+lwin}
+{hk4}>{s9}{x1}{-lshf}{-lwin}{4}{+lshf}{+lwin}
+{hk1}>{s5}{x1}{vol+}
+{hk2}>{s5}{x1}{vol-}
+<keypad>
+<function1>
+<function2>
+<function3>
